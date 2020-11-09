@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Change customization</description>
+        <device_type>browser</device_type>
+        <hint>Change customization</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 21:31:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c486ffb1dbb31010c6ea1fc7689619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change customization</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Change customization" source="bc567fb1dbb31010c6ea1fc7689619e1">bc567fb1dbb31010c6ea1fc7689619e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Change customization">bc567fb1dbb31010c6ea1fc7689619e1</sys_scope>
+        <sys_update_name>sys_app_application_c486ffb1dbb31010c6ea1fc7689619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 21:31:25</sys_updated_on>
+        <title>Change customization</title>
+        <view_name/>
+    </sys_app_application>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Change customization">bc567fb1dbb31010c6ea1fc7689619e1</application>
+        <file_path/>
+        <instance_id>7cd82d4adb075704cbf6d5b0cf9619de</instance_id>
+        <instance_name>dev63523</instance_name>
+        <name>sys_app_application_c486ffb1dbb31010c6ea1fc7689619e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Change customization</description>
+        <device_type>browser</device_type>
+        <hint>Change customization</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 21:31:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c486ffb1dbb31010c6ea1fc7689619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change customization</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Change customization" source="bc567fb1dbb31010c6ea1fc7689619e1">bc567fb1dbb31010c6ea1fc7689619e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Change customization">bc567fb1dbb31010c6ea1fc7689619e1</sys_scope>
+        <sys_update_name>sys_app_application_c486ffb1dbb31010c6ea1fc7689619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 21:31:25</sys_updated_on>
+        <title>Change customization</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>]]></payload>
+        <payload_hash>-1467461840</payload_hash>
+        <record_name>Change customization</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:34:41</sys_created_on>
+        <sys_id>8dc3c80bdbd02010c6ea1fc76896199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175aeeeb8b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:34:41</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>4dc3c80b65d02010a09e133f4a6cd09e</update_guid>
+        <update_guid_history>d47244c73ad020104c96003a6349ddcd:1044371191,4486bf752db31010c5242c65ed176fac:381862370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Change customization">9364484bdbd02010c6ea1fc76896190c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:37:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>b9ddf75809654034a267c2324e0ff5a9</sys_id>
+        <sys_metadata>c486ffb1dbb31010c6ea1fc7689619e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change customization</sys_name>
+        <sys_package display_value="Change customization" source="bc567fb1dbb31010c6ea1fc7689619e1">bc567fb1dbb31010c6ea1fc7689619e1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Change customization">bc567fb1dbb31010c6ea1fc7689619e1</sys_scope>
+        <sys_scope_delete display_value="">001f08fa7fdf4d01800012f46ba26dd1</sys_scope_delete>
+        <sys_update_name>sys_app_application_c486ffb1dbb31010c6ea1fc7689619e0</sys_update_name>
+        <sys_update_version display_value="sys_app_application_c486ffb1dbb31010c6ea1fc7689619e0">8dc3c80bdbd02010c6ea1fc76896199e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:37:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
