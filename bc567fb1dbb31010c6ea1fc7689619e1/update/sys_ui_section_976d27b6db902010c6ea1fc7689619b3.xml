@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Planning" section_id="976d27b6db902010c6ea1fc7689619b3" sys_domain="global" table="change_request" version="3" view="Test_new_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-09 19:57:06</sys_created_on>
+            <sys_id>676d67b6db902010c6ea1fc768961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">976d27b6db902010c6ea1fc7689619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-09 19:57:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>implementation_plan</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-09 19:57:06</sys_created_on>
+            <sys_id>e76d67b6db902010c6ea1fc768961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">976d27b6db902010c6ea1fc7689619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-09 19:57:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_impact_analysis</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-09 19:57:06</sys_created_on>
+            <sys_id>6b6d67b6db902010c6ea1fc768961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">976d27b6db902010c6ea1fc7689619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-09 19:57:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>backout_plan</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-09 19:57:06</sys_created_on>
+            <sys_id>eb6d67b6db902010c6ea1fc768961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">976d27b6db902010c6ea1fc7689619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-09 19:57:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_plan</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-09 19:57:06</sys_created_on>
+            <sys_id>6f6d67b6db902010c6ea1fc768961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="464377f1dbb31010c6ea1fc768961916">976d27b6db902010c6ea1fc7689619b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-09 19:57:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Planning</caption>
+            <header>false</header>
+            <name>change_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-09 19:57:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>976d27b6db902010c6ea1fc7689619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>change_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Change customization" source="bc567fb1dbb31010c6ea1fc7689619e1">bc567fb1dbb31010c6ea1fc7689619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Change customization">bc567fb1dbb31010c6ea1fc7689619e1</sys_scope>
+            <sys_update_name>sys_ui_section_976d27b6db902010c6ea1fc7689619b3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-09 19:57:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Test new view" name="Test_new_view">464377f1dbb31010c6ea1fc768961916</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
